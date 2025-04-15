@@ -53,6 +53,7 @@ modules:
     snippets:
       - "rm -f /usr/share/applications/discourse.desktop"
       - "rm -f /usr/share/applications/documentation.desktop"
+      - "rm -rf /usr/share/input-remapper/"
   
   - type: fonts
     fonts:
