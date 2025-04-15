@@ -66,11 +66,11 @@ modules:
   - type: gnome-extensions
     install:
       - Alphabetical App Grid
+      - Bing Wallpaper
       - Coverflow Alt-Tab
       - Dash to Panel
       - Hot Edge
       - Just Perfection
-      - NASA APOD Wallpaper Changer
       - OSD Volume Number
       - Quick Settings Audio Panel
       - Weather O'Clock
