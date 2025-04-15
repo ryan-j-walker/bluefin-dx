@@ -72,7 +72,7 @@ modules:
       - Just Perfection
       - OSD Volume Number
       - Quick Settings Audio Panel
-      # - Random Wallpaper
+      - Random Wallpaper
       - Weather O'Clock
     uninstall:
       - Caffeine
