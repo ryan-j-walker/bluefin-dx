@@ -65,13 +65,13 @@ modules:
   - type: gnome-extensions
     install:
       - Alphabetical App Grid
-      - Bing Wallpaper
       - Coverflow Alt-Tab
       - Dash to Panel
       - Hot Edge
       - Just Perfection
       - OSD Volume Number
       - Quick Settings Audio Panel
+      - Random Wallpaper
       - Weather O'Clock
     uninstall:
       - Caffeine
