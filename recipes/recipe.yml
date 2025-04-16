@@ -24,7 +24,6 @@ modules:
       # - micro
       # - starship
       - papirus-icon-theme
-      - sassc
     # remove:
       # example: removing firefox (in favor of the flatpak)
       # "firefox" is the main package, "firefox-langpacks" is a dependency
@@ -73,6 +72,7 @@ modules:
       - Dash to Panel
       - Hot Edge
       - Just Perfection
+      - Open Bar
       - OSD Volume Number
       - Quick Settings Audio Panel
       - Weather O'Clock
