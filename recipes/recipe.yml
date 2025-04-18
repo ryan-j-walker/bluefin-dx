@@ -38,7 +38,6 @@ modules:
         - com.github.iwalton3.jellyfin-media-player
         - com.github.wwmm.easyeffects
         - com.makemkv.MakeMKV
-        - tech.feliciano.pocket-casts
       remove:
         - io.podman_desktop.PodmanDesktop
         - org.gnome.Calendar
