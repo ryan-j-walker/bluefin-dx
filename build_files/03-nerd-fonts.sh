@@ -6,7 +6,7 @@ echo "::group:: ===$(basename "$0")==="
 
 set -ouex pipefail
 
-mapfile -t FONTS < "/nerd-fonts.txt"
+mapfile -t FONTS < "/ctx/nerd-fonts.txt"
 URL="https://github.com/ryanoasis/nerd-fonts/releases/latest/download"
 DEST="/usr/share/fonts/nerd-fonts"
 
