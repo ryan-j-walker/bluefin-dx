@@ -18,7 +18,7 @@ rsync -rvK /ctx/system_files/ /
 /ctx/03-nerd-fonts.sh
 
 # Cleanup
-/ctx/04-cleanup.sh
+# /ctx/04-cleanup.sh
 
 # Regenerate initramfs to remove dinosaur branding in Plymouth
 /ctx/05-initramfs.sh
