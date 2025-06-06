@@ -4,7 +4,7 @@ set -ouex pipefail
 
 rsync -rvK /ctx/system_files/ /
 
-/ct/09-initramfs.sh
+/ctx/09-initramfs.sh
 
 ### Install packages
 
